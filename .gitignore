@@ -1,0 +1,11 @@
+# dependencies
+/node_modules
+
+# production
+/dist
+/release
+/.idea
+# misc
+.DS_Store
+yarn-error.log
+npm-debug.log*
